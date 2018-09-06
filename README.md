@@ -1,4 +1,4 @@
-# Eclipse SmartHome Build Instructions
+# Eclipse SmartHome Maintained At Asvilabs
 
 Thanks for your interest in the Eclipse SmartHome project!
 
