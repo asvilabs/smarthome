@@ -1,4 +1,4 @@
-# Eclipse SmartHome Maintained At Asvilabs
+# Eclipse SmartHome Maintained At Asvilabs for Legacy Cutomers
 
 Thanks for your interest in the Eclipse SmartHome project!
 
